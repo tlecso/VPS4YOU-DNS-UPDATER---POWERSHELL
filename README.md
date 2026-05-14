@@ -10,4 +10,4 @@ $apiUrl     = "https://vps4you.hu/api.php" -> Don't touch
 $hostname   = "INSERT_YOUR_HOSTNAME_ONLY_HERE" -> Insert here ONLY your desired HOSTNAME (for example: MILKYWAY)  
 $domain     = "INSERT_YOUR_DOMAIN_ONLY_HERE" -> Insert here ONLY your registered domain name (for example: MYSITE.COM)  
   
-The script create FQDN from $hostname and $domain variables (for example: MILKYWAY.MYSITE.COM)
+This script create FQDN from $hostname and $domain variables (for example: MILKYWAY.MYSITE.COM)
